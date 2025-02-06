@@ -7,3 +7,5 @@ Per construir una GNN que reb d'input un graf i l'output és una classificació 
 ## Polinomis de Chebychev
 
 ## Camins aleatoris
+
+## Codi
