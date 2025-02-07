@@ -4,7 +4,7 @@ Per construir una GNN que reb d'input un graf i l'output és una classificació 
 
 ## Convolucions
 
-## Polinomis de Chebychev
+## Polinomis de Chebyshev
 
 ## Camins aleatoris
 
