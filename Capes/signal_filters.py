@@ -1,5 +1,13 @@
 import numpy as np
 
+'''
+DUBTE: Per fer el codi d'una xarxa neuronal hem de fer una GNN
+hem de definir un graf bipartit?¿?¿?¿
+
+Per programar el model hauries de mirar SurveyGnn.pdf e intentar-ho 
+fer en codi.
+'''
+
 class GraphConvFilter():
 
     '''
@@ -14,6 +22,9 @@ class GraphConvFilter():
     '''
 
     def __init__(self,H):
+        '''
+        Hem de tenir en compte que pentura un filtre depen de 
+        '''
         self.order = len(H) - 1
         self.parameters = H
 
